@@ -1,3 +1,4 @@
+my extensions are empty.i had issues after i updated.now i dont havr anything.crt.cry.cry
 ---
 title: Extensions
 titleTemplate: Browse - Frequently Asked Questions
